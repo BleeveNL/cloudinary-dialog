@@ -29,7 +29,7 @@
     "contentful": "7.7.0",
     "contentful-ui-extensions-sdk": "3.8.0",
     "core-js": "3.1.4",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
